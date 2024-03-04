@@ -1,0 +1,3 @@
+Faker
+kafka-python fastavro pandas
+prometheus_client requests
